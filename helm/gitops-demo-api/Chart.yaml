@@ -1,0 +1,6 @@
+apiVersion: v2
+name: gitops-demo-api
+description: FastAPI application for the Kubernetes GitOps Platform
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
